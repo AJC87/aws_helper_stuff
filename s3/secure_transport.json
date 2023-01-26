@@ -1,0 +1,20 @@
+{
+    "Id": "AllowSecureRequestsOnly",
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "AllowSecureRequestsOnly",
+        "Action": "s3:*",
+        "Effect": "Deny",
+        "Resource": [
+          "arn:aws:s3:::<bucket_name>/*"
+        ],
+        "Condition": {
+          "Bool": {
+            "aws:SecureTransport": "false"
+          }
+        },
+        "Principal": "*"
+      }
+    ]
+  }
