@@ -12,3 +12,5 @@
 9. SCP
 10. EC2 Image Builder inc Docker
 11. Separate account to replicate CloudTrail logs to - no read/write to them
+12. CodeGuru
+13. App Runner
