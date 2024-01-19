@@ -15,3 +15,4 @@
 12. CodeGuru
 13. App Runner
 14. GameLift - deploy game to it
+15. GuardDuty
