@@ -22,3 +22,4 @@
 19. AppConfig
 20. Serverless Application Repository
 21. Interface/Gateway endpoints
+22. X-Ray
