@@ -24,3 +24,4 @@
 21. Interface/Gateway endpoints
 22. X-Ray
 23. AWS Prometheus and Grafana
+24. Permissions boundaries
