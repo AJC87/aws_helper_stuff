@@ -25,3 +25,7 @@
 22. X-Ray
 23. AWS Prometheus and Grafana
 24. Permissions boundaries
+25. ABAC see DevOps Pro ACG cert vid
+26. Savings Plans
+27. Lambda Power Tuning
+28. CloudFront Functions
