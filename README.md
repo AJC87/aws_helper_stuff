@@ -29,3 +29,6 @@
 26. Savings Plans
 27. Lambda Power Tuning
 28. CloudFront Functions
+29. Trusted Advisor
+30. Service Catalog
+31. Network Firewall
