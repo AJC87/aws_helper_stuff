@@ -18,7 +18,7 @@
 15. GuardDuty
 16. ECS both modes, maybe private internal LB for container to container communication
 17. CloudFormation inc pipeline
-18. CDK inc pipeline
+18. CDK inc pipeline (cdk init)
 19. AppConfig
 20. Serverless Application Repository
 21. Interface/Gateway endpoints
@@ -32,3 +32,4 @@
 29. Trusted Advisor
 30. Service Catalog
 31. Network Firewall
+32. Security Hub
