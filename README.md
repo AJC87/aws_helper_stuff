@@ -33,3 +33,6 @@
 30. Service Catalog
 31. Network Firewall
 32. Security Hub
+33. aws-testing-lib
+34. Amplify
+35. AppSync, Apollo
