@@ -36,3 +36,7 @@
 33. aws-testing-lib
 34. Amplify
 35. AppSync, Apollo
+36. Cognito triggers inc Lambda
+37. wait-for-expect
+38. Step Functions Local
+39. LocalStack inc CDK local
