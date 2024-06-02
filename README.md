@@ -41,3 +41,4 @@
 38. Step Functions Local
 39. LocalStack inc CDK local
 40. IoT Greengrass
+41. Firecracker
