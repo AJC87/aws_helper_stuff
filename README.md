@@ -42,3 +42,4 @@
 39. LocalStack inc CDK local
 40. IoT Greengrass
 41. Firecracker
+42. For serverless/EDA - CloudEvents, AsyncAPI
