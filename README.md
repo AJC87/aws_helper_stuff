@@ -43,3 +43,6 @@
 40. IoT Greengrass
 41. Firecracker
 42. For serverless/EDA - CloudEvents, AsyncAPI
+43. Jumbo frames script (see networking cert book)
+44. Instance store S3 templates? Enable swap space on the volumes for instance store
+45. Serverless Application Repository
