@@ -6,7 +6,7 @@
 3. Set up Control Tower
 4. dotnet CLI/nuget CodeArtifact
 5. SAM
-6. Serverless Framework
+6. Serverless Framework V4 inc reserve an extension name and work on one
 7. Organizations inc tag policy
 8. Config
 9. SCP
@@ -22,7 +22,7 @@
 19. AppConfig
 20. Serverless Application Repository
 21. Interface/Gateway endpoints
-22. X-Ray
+22. X-Ray inc with Lambda
 23. AWS Prometheus and Grafana
 24. Permissions boundaries
 25. ABAC see DevOps Pro ACG cert vid
@@ -46,3 +46,12 @@
 43. Jumbo frames script (see networking cert book)
 44. Instance store S3 templates? Enable swap space on the volumes for instance store
 45. Serverless Application Repository
+46. Lambda@Edge
+47. LambdaLogger
+48. CloudWatch ServiceLens
+49. Lambda Destinations
+50. Lambda autoscaling with provisioned concurrency, ping to reduce cold start issues
+51. Log forwarders
+52. RDS Data API inc for Aurora Serverless
+53. Graviton
+54. threat-composer
