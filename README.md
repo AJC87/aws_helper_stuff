@@ -55,3 +55,5 @@
 52. RDS Data API inc for Aurora Serverless
 53. Graviton
 54. threat-composer
+55. Lambda code signing
+56. API Gateway inc with WAF
