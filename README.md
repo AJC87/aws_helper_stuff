@@ -57,3 +57,10 @@
 54. threat-composer
 55. Lambda code signing
 56. API Gateway inc with WAF
+57. CodeBuild local and with VPC
+58. ElastiCache Serverless
+59. Lambda EFS
+60. ECS logging
+61. EKS Distro
+62. Lambda Powertools
+63. EventBridge destinations/pipes
