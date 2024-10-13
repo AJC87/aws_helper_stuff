@@ -19,7 +19,7 @@
 16. ECS both modes, maybe private internal LB for container to container communication
 17. CloudFormation inc pipeline
 18. CDK inc pipeline (cdk init)
-19. AppConfig
+19. AppConfig inc Feature Flags
 20. Serverless Application Repository
 21. Interface/Gateway endpoints
 22. X-Ray inc with Lambda
@@ -64,3 +64,6 @@
 61. EKS Distro
 62. Lambda Powertools
 63. EventBridge destinations/pipes
+64. Lambda Insights
+65. StepFunctions Mermaid
+66. EPEL stress tool
