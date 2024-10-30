@@ -67,3 +67,7 @@
 64. Lambda Insights
 65. StepFunctions Mermaid
 66. EPEL stress tool
+67. AWS Signer
+68. ECR Docker credential helper
+69. EC2 Global View
+70. IAM user/role access to billing console so you don’t need root account for it
