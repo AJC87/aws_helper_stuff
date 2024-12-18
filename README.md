@@ -71,3 +71,5 @@
 68. ECR Docker credential helper
 69. EC2 Global View
 70. IAM user/role access to billing console so you don’t need root account for it
+71. AWS Distro
+72. Dedicated subnet for Lambdas
