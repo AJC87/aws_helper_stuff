@@ -21,7 +21,7 @@
 18. CDK inc pipeline (cdk init)
 19. AppConfig inc Feature Flags
 20. Serverless Application Repository
-21. Interface/Gateway endpoints
+21. Interface/Gateway endpoints inc via IaC
 22. X-Ray inc with Lambda
 23. AWS Prometheus and Grafana
 24. Permissions boundaries
@@ -73,3 +73,12 @@
 70. IAM user/role access to billing console so you don’t need root account for it
 71. AWS Distro
 72. Dedicated subnet for Lambdas
+73. CloudTrail enable log file digests
+74. Inspector inc in CI/CD
+75. Gateway/interface endpoints CDK/TF/CF
+76. Script EFS stuff inc fstab/IAM stuff
+77. VPC Flow Logs
+78. Automate installing CloudWatch agent
+79. CloudTrail log file integrity
+80. EC2 keypair gen script
+81. DynamoDB indexes inc sparse
