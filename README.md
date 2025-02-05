@@ -56,7 +56,7 @@
 53. Graviton
 54. threat-composer
 55. Lambda code signing
-56. API Gateway inc with WAF
+56. API Gateway inc with WAF, burst/rate
 57. CodeBuild local and with VPC
 58. ElastiCache Serverless
 59. Lambda EFS
@@ -82,3 +82,12 @@
 79. CloudTrail log file integrity
 80. EC2 keypair gen script
 81. DynamoDB indexes inc sparse
+82. EventCatalog
+83. EventBridge
+84. S3 lifecycle
+85. Automate handling zone or region going down
+86. Private DNS
+87. CloudWatch Lambda memory alarms
+88. Compute Optimizer Lambda recommendations
+89. CloudWatch events for cold starts
+90. Lambda SnapStart, Arm
