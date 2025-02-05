@@ -91,3 +91,4 @@
 88. Compute Optimizer Lambda recommendations
 89. CloudWatch events for cold starts
 90. Lambda SnapStart, Arm
+91. Parameter Store - cheaper for personal projects than Secrets Manager
