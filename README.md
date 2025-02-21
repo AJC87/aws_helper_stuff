@@ -92,3 +92,5 @@
 89. CloudWatch events for cold starts
 90. Lambda SnapStart, Arm
 91. Parameter Store - cheaper for personal projects than Secrets Manager
+92. ADOT
+93. SageMaker Model Registry, Model Cards, Feature Store
