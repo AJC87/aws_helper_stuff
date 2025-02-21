@@ -6,14 +6,14 @@ import { IRuleTarget } from 'aws-cdk-lib/aws-events';
 declare const target: IRuleTarget;
 
 export function createECRRepository(this: Stack): void {
-    // TODO: finish me
+    //  TODO: finish me
 
-    // Get user from elsewhere
+    //  Get user from elsewhere
     // const user = new iam.User(this, 'my_user');
     // ecr.AuthorizationToken.grantRead(user);
     // ecr.PublicGalleryAuthorizationToken.grantRead(user);
 
-    // Get role from elsewhere, set up CodeBuild
+    //  Get role from elsewhere, set up CodeBuild
     // const role = new iam.Role(this, 'my_role', {
     //     assumedBy: new iam.ServicePrincipal('codebuild.amazonaws.com'),
     //   });
@@ -21,8 +21,10 @@ export function createECRRepository(this: Stack): void {
     const repository = new ecr.Repository(this, 'my_repository', {
         // False for now to save money
         imageScanOnPush: false,
+        imageTagMutability: ecr.TagMutability.IMMUTABLE,
       });
 
+    //  Add other permissions too
     // repository.grantPush(role);
 
     // repository.onImageScanCompleted('ImageScanComplete')
