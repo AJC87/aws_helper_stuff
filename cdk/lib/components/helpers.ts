@@ -1,9 +1,11 @@
-import { Stack } from 'aws-cdk-lib';
+import { Duration, RemovalPolicy, Stack } from 'aws-cdk-lib';
 import * as ecr from 'aws-cdk-lib/aws-ecr';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import { IRuleTarget } from 'aws-cdk-lib/aws-events';
 
 declare const target: IRuleTarget;
+
+//  Provenance?
 
 export function createECRRepository(this: Stack): void {
     //  TODO: finish me
@@ -22,7 +24,16 @@ export function createECRRepository(this: Stack): void {
         // False for now to save money
         imageScanOnPush: false,
         imageTagMutability: ecr.TagMutability.IMMUTABLE,
+        //  Maybe costs money
+        encryption: ecr.RepositoryEncryption.KMS,
+        removalPolicy: RemovalPolicy.DESTROY,
+        //  Do we always want to delete?
+        emptyOnDelete: true,
       });
+
+    //  What does max image count do here?
+    repository.addLifecycleRule({ tagPrefixList: ['prod'], maxImageCount: 100 });
+    repository.addLifecycleRule({ maxImageAge: Duration.days(30) });
 
     //  Add other permissions too
     // repository.grantPush(role);
