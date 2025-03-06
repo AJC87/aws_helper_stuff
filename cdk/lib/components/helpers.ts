@@ -5,7 +5,7 @@ import { IRuleTarget } from 'aws-cdk-lib/aws-events';
 
 declare const target: IRuleTarget;
 
-//  Provenance?
+//  Provenance? other properties
 
 export function createECRRepository(this: Stack): void {
     //  TODO: finish me

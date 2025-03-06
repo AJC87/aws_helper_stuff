@@ -93,4 +93,8 @@
 90. Lambda SnapStart, Arm
 91. Parameter Store - cheaper for personal projects than Secrets Manager
 92. ADOT
-93. SageMaker Model Registry, Model Cards, Feature Store
+93. SageMaker Model Registry, Model Cards, Feature Store, inference
+94. Transfer Family
+95. Install AWS CLI with GPG
+96. CDK/Terraform IRSA
+97. PartyRock
