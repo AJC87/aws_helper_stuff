@@ -98,3 +98,10 @@
 95. Install AWS CLI with GPG
 96. CDK/Terraform IRSA
 97. PartyRock
+98. Aurora DSQL
+99. Amazon Q
+100. SST
+101. Pinecone free
+102. Nitro
+
+Don't use SageMaker Canvas - too dear!
