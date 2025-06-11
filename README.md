@@ -103,5 +103,6 @@
 100. SST
 101. Pinecone free
 102. Nitro
+103. Set up SES
 
 Don't use SageMaker Canvas - too dear!
