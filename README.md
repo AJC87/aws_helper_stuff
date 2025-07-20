@@ -104,5 +104,10 @@
 101. Pinecone free
 102. Nitro
 103. Set up SES
+104. Kendra
+105. CodeStar
+106. CodeWhisperer
+107. AWS Toolkit for Visual Studio/VS Code
+108. Cloud9
 
 Don't use SageMaker Canvas - too dear!
