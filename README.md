@@ -109,5 +109,14 @@
 106. CodeWhisperer
 107. AWS Toolkit for Visual Studio/VS Code
 108. Cloud9
+109. Bedrock inc AgentCore
+110. ACM+Route53
+111. Nova
+112. Redshift
+113. Rekognition
+114. Athena
+115. Glue inc Data Catalog/DataBrew
+116. Lambda layers inc AppConfig/Insights
+117. Well-Architected Review
 
 Don't use SageMaker Canvas - too dear!
