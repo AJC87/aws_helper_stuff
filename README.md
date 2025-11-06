@@ -109,7 +109,7 @@
 106. CodeWhisperer
 107. AWS Toolkit for Visual Studio/VS Code
 108. Cloud9
-109. Bedrock inc AgentCore
+109. Bedrock inc AgentCore and using LocalStack
 110. ACM+Route53
 111. Nova
 112. Redshift
@@ -118,5 +118,6 @@
 115. Glue inc Data Catalog/DataBrew
 116. Lambda layers inc AppConfig/Insights
 117. Well-Architected Review
+118. AWS Toolkit VS Code/Visual Studio (with LocalStack)
 
 Don't use SageMaker Canvas - too dear!
