@@ -87,7 +87,7 @@
 84. S3 lifecycle
 85. Automate handling zone or region going down
 86. Private DNS
-87. CloudWatch Lambda memory alarms
+87. CloudWatch alarms inc with CDK e.g. Lambda memory alarms
 88. Compute Optimizer Lambda recommendations
 89. CloudWatch events for cold starts
 90. Lambda SnapStart, Arm
@@ -119,5 +119,11 @@
 116. Lambda layers inc AppConfig/Insights
 117. Well-Architected Review
 118. AWS Toolkit VS Code/Visual Studio (with LocalStack)
+119. AWS Proton
+120. ACK
+121. ECR managed signing
+122. Strands Agents - maybe move to AI repo
+123. Lambda Managed Instances
+124. DynamoDB import from S3
 
 Don't use SageMaker Canvas - too dear!
