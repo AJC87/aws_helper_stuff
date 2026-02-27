@@ -125,5 +125,7 @@
 122. Strands Agents - maybe move to AI repo
 123. Lambda Managed Instances
 124. DynamoDB import from S3
+125. DB triggers inc DynamoDB Streams
+126. Step Functions inc TestState
 
 Don't use SageMaker Canvas - too dear!
