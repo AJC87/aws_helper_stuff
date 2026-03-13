@@ -127,5 +127,7 @@
 124. DynamoDB import from S3
 125. DB triggers inc DynamoDB Streams
 126. Step Functions inc TestState
+127. IoT Core 
+128. Fault Injection Service
 
 Don't use SageMaker Canvas - too dear!
