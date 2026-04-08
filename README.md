@@ -129,5 +129,6 @@
 126. Step Functions inc TestState
 127. IoT Core 
 128. Fault Injection Service
+129. Service Catalog
 
 Don't use SageMaker Canvas - too dear!
