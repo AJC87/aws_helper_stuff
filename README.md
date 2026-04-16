@@ -130,5 +130,6 @@
 127. IoT Core 
 128. Fault Injection Service
 129. Service Catalog
+130. AWS IAM Identity Center
 
 Don't use SageMaker Canvas - too dear!
